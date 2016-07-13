@@ -1,7 +1,8 @@
 #include<stdio>
-void helloprint()
+int helloprint()
 {
 	printf("Hello Brother");
+	return 0;
 }
 int main()
 {
